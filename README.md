@@ -16,7 +16,7 @@ The aim is to help businesses, brands, and creators make **data-driven decisions
 
 ## 📸 Dashboard Preview  
 
-![Dashboard Screenshot](assets/dashboard.png)  
+'Screenshot 2025-08-18 175147.png'' 
 
 ---
 ## 📂 Key Insights  
